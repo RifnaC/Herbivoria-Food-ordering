@@ -6,6 +6,10 @@ body{
     background-color: #EFBC9B;
     justify-content: space-between;
     border: 1px solid #D6DAC8;
+    margin: 4px;
+}
+h4, h3{
+    margin: 8px;
 }
 .logo-container img{
     width: 48px;
@@ -49,4 +53,12 @@ body{
 .res-card-footer{
     display: flex;
     justify-content: space-between;
+}
+.filter{
+    margin: 8px 0 4px 4px;
+}
+.filter-btn{
+    padding:4px;
+    background-color: #ebb693;
+    border: 1px solid #181a14;
 }
