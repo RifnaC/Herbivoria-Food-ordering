@@ -41,10 +41,10 @@ body{
     width: 240px;
     height: 480px;
     margin: 4px;
+    background-color: #f7e4d7;
 }
 .res-logo{
     width: 100%;
-    
 }
 .res-card-footer{
     display: flex;
