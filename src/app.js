@@ -1,5 +1,5 @@
+import React from "react";
 import reactDom from "react-dom/client";
-
 import Body from "./components/Body"
 import Header from "./components/Header"
 import {Header} from "./components/Header"

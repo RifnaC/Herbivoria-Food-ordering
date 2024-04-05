@@ -49,6 +49,7 @@ h4, h3{
 }
 .res-logo{
     width: 100%;
+    height: 40%;
 }
 .res-card-footer{
     display: flex;
